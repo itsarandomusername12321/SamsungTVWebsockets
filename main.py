@@ -6,7 +6,7 @@ import asyncio, websockets, ssl, json, os
 TV_IP = "IP_HERE"
 COMMAND = "KEY_POWER"  # Example: KEY_VOLUP, KEY_MUTE
 TOKEN_FILE = "token.json"
-APP_NAME_B64 = "ZHVtbXktcHktcmVtb3Rl"  # base64("dummy-py-remote")
+APP_NAME_B64 = "UHl0aG9u"  # base64("Python")
 
 def load_token():
     if os.path.exists(TOKEN_FILE):
