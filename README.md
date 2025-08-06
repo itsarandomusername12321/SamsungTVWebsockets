@@ -4,6 +4,6 @@ Made with Chatgpt again XD
 # How it work
 Only need to install websockets (`pip install websockets`)
 
-You grab your TV's ip address then uhh put it inside the script and run it. Verify your connection then that's all
+You grab your TV's ip address then uhh put it inside the script and run it. Verify your connection then. That's all
 # For older SamsungTV
 consider check out https://github.com/bearlike/scripts/blob/main/python/tv-shutdown.py
